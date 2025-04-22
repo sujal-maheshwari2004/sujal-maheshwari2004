@@ -24,11 +24,11 @@ I'm actively exploring **internships, research collaborations, and freelance rol
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://github.com/SujalMaheshwari" target="_blank">
+  <a href="https://github.com/sujal-maheshwari2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="mailto:sujalmaheshwari2026@gmail.com" target="_blank">
+  <a href="mailto:sujalmaheshwari07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -39,35 +39,35 @@ I'm actively exploring **internships, research collaborations, and freelance rol
 
 ## <div align="center">🛠️ Skills & Tools</div>
 
-- **Languages**: Python, C++, JavaScript, SQL
-- **Frameworks**: ReactJS, Flask, Streamlit, FastAPI, PyTorch, TensorFlow
-- **Databases**: MongoDB, MySQL, SQLite
-- **Tools & DevOps**: Git, Postman, VS Code, FAISS, Docker (basic)
-- **Specialties**: 
-  - RAG systems from scratch (no LangChain)
-  - Custom Transformer models (no HuggingFace)
-  - OpenAI/Llama.cpp-based chatbot systems
-  - Medical AI, PDF OCR, and structured data parsing
+- **Languages**: Python, C++, JavaScript, SQL  
+- **Frameworks**: ReactJS, Flask, Streamlit, FastAPI, PyTorch, TensorFlow  
+- **Databases**: MongoDB, MySQL, SQLite  
+- **Tools & DevOps**: Git, Postman, VS Code, FAISS, Docker (basic)  
+- **Specialties**:  
+  - RAG systems from scratch (no LangChain)  
+  - Custom Transformer models (no HuggingFace)  
+  - OpenAI/Llama.cpp-based chatbot systems  
+  - Medical AI, PDF OCR, and structured data parsing  
 
 ## <div align="center">🏆 Hackathons & Projects</div>
 
-- 🥇 **Smart India Hackathon** – AI for Smart Education
-- 🏅 **Walmart Sparkathon** – Shipping failure prediction using SHAP & ML
-- 🤖 **AI-powered Assistants** – Chatbots, Document Parsers, Medical Evaluators
+- 🥇 **Smart India Hackathon** – AI for Smart Education  
+- 🏅 **Walmart Sparkathon** – Shipping failure prediction using SHAP & ML  
+- 🤖 **AI-powered Assistants** – Chatbots, Document Parsers, Medical Evaluators  
 
 ## <div align="center">💻 GitHub Stats</div>
 
 <table align="center" width="100%" height="100%" style="border: 0;">
   <tr>
-    <td><img style="border: 0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalMaheshwari&theme=github_dark" alt="GitHub Stats" /></td>
+    <td><img style="border: 0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-maheshwari2004&theme=github_dark" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
 <table align="center" width="100%" height="100%" style="border: 0;">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalMaheshwari&theme=github_dark" alt="GitHub Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujalMaheshwari&theme=github_dark" alt="Productive Time" /></td>
-    <td><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalMaheshwari&layout=compact&theme=github_dark&border_color=2E343B&border_radius=6&title_color=0366D6&langs_count=10" alt="Top Languages" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujal-maheshwari2004&theme=github_dark" alt="GitHub Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujal-maheshwari2004&theme=github_dark" alt="Productive Time" /></td>
+    <td><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-maheshwari2004&layout=compact&theme=github_dark&border_color=2E343B&border_radius=6&title_color=0366D6&langs_count=10" alt="Top Languages" /></td>
   </tr>
 </table>
 
