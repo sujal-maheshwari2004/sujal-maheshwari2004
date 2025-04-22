@@ -12,7 +12,7 @@
 </div>
 
 ## <div align="center">🔍 About Me</div>
-Hey there! 👋 I’m Sujal Maheshwari, a pre-final year B.Tech CSE student at Graphic Era University, Dehradun. I'm passionate about AI/ML, Generative AI, front-end development, and building intelligent systems from scratch — including my own transformer models and RAG frameworks.
+Hey there! 👋 I’m Sujal Maheshwari, a pre-final year B.Tech CSE student at Graphic Era University, Dehradun. I'm passionate about AI/ML, Generative AI, front-end development, and building intelligent systems.
 
 With national-level hackathon wins and mentoring experience for 130+ students, I'm on a mission to create impactful tech solutions in the AI.
 
