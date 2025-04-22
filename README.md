@@ -14,7 +14,7 @@
 ## <div align="center">🔍 About Me</div>
 Hey there! 👋 I’m Sujal Maheshwari, a pre-final year B.Tech CSE student at Graphic Era University, Dehradun. I'm passionate about AI/ML, Generative AI, front-end development, and building intelligent systems from scratch — including my own transformer models and RAG frameworks.
 
-With national-level hackathon wins and mentoring experience for 130+ students, I'm on a mission to create impactful tech solutions in the AI and healthcare space.
+With national-level hackathon wins and mentoring experience for 130+ students, I'm on a mission to create impactful tech solutions in the AI.
 
 ## <div align="center">🌐 Connect with Me</div>
 I'm actively exploring **internships, research collaborations, and freelance roles** in AI, ML, and full-stack development. Let’s innovate together!
@@ -44,9 +44,10 @@ I'm actively exploring **internships, research collaborations, and freelance rol
 - **Databases**: MongoDB, MySQL, SQLite  
 - **Tools & DevOps**: Git, Postman, VS Code, FAISS, Docker (basic)  
 - **Specialties**:  
-  - RAG systems from scratch (no LangChain)  
-  - Custom Transformer models (no HuggingFace)  
-  - OpenAI/Llama.cpp-based chatbot systems  
+  - RAG systems.
+  - Agentic AI  
+  - OpenAI/Llama.cpp-based chatbot systems.
+  - Python bases full-stack application with React Frontend 
   - Medical AI, PDF OCR, and structured data parsing  
 
 ## <div align="center">🏆 Hackathons & Projects</div>
