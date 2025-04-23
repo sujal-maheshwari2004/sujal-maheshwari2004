@@ -35,7 +35,7 @@ I'm actively exploring **internships, research collaborations, and freelance rol
 
 ### Employer?
 > [!IMPORTANT]
-> <a href="https://your-resume-link-here.com" download><img src="https://img.shields.io/badge/Download_My_Resume-%238957E5?style=for-the-badge" alt="Download My Resume" /></a>
+> <a href="https://drive.google.com/file/d/1aF30dsNapTSQy1i8iReLbDY8JrIC3NPB/view?usp=drivesdk" download><img src="https://img.shields.io/badge/Download_My_Resume-%238957E5?style=for-the-badge" alt="Download My Resume" /></a>
 
 ## <div align="center">🛠️ Skills & Tools</div>
 
